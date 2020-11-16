@@ -52,4 +52,4 @@ Under the premise of not violating [the Kagura Mea Secondary Creation Regulation
 
 ## Special Thanks
 
-This project is supported by MeowSound Idols.
+This project is supported by [MeowSound Idols](https://github.com/MeowSound-Idols).
