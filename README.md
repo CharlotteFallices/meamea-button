@@ -48,7 +48,7 @@ npm install
 
 ## License
 
-Under the premise of not violating [the Kagura Mea Secondary Creation Regulations](https://bilibili.com/read/6597175) and the purpose and principles of it,it is applicable to the MIT License.
+Under the premise of not violating [the Kagura Mea Secondary Creation Regulations](https://bilibili.com/read/6597175) and the purpose and principles of it,it's applicable to the MIT License.
 
 ## Special Thanks
 
