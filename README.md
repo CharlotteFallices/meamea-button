@@ -1,6 +1,6 @@
 # Meamea button
 
-Mea button [Click here to visit https://meamea.moe](https://meamea.moe)
+All for Kagura Mea!🍥 [Desktop Version](https://github.com/daflyinbed/meaButton)
 
 [![Build Status](https://travis-ci.org/zyzsdy/meamea-button.svg?branch=master)](https://travis-ci.org/zyzsdy/meamea-button)
 
@@ -38,7 +38,7 @@ Related Links:
 
 目前使用`Vue`,`jQuery`与`Bootstrap 3`开发.
 
-要部署本地开发环境,请先安装最新版本的node,然后:
+要部署本地开发环境,请先安装最新版本的`node`,然后运行:
 
 ```shell
 git clone https://github.com/CharlotteFallices/meamea-button.git
@@ -53,5 +53,3 @@ Under the premise of not violating [the Kagura Mea Secondary Creation Regulation
 ## Special Thanks
 
 This project is supported by MeowSound Idols.
-
-[桌面版](https://github.com/daflyinbed/meaButton)
